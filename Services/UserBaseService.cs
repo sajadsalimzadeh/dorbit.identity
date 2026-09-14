@@ -9,7 +9,6 @@ using Dorbit.Framework.Exceptions;
 using Dorbit.Framework.Extensions;
 using Dorbit.Framework.Services;
 using Dorbit.Framework.Utils.Cryptography;
-using Dorbit.Identity.Configs;
 using Dorbit.Identity.Contracts.Otps;
 using Dorbit.Identity.Contracts.Privileges;
 using Dorbit.Identity.Contracts.Users;
@@ -18,7 +17,6 @@ using Dorbit.Identity.Entities;
 using Dorbit.Identity.Repositories;
 using Dorbit.Identity.Services.Abstractions;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 
 namespace Dorbit.Identity.Services;
 

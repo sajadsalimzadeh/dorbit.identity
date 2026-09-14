@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using Dorbit.Framework.Entities;
 using Dorbit.Framework.Utils.Json;
-using Microsoft.EntityFrameworkCore;
 
 namespace Dorbit.Identity.Entities;
 
